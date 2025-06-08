@@ -105,3 +105,13 @@ function fetchUserDetails(username: string): User {
 // avoid using any 
 
 // Lesson 22: Add a return type to getPizzaDetail
+
+// Lesson 23: Void return type 
+
+// Lesson 24: Add automatic ids to menu items 
+
+// Lesson 25: Utility types & partial
+
+
+
+console.log('Open Sesame')
